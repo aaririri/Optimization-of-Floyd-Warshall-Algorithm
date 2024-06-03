@@ -7,8 +7,11 @@ Implementation of different algorithms like the sequential algorithm, rectangula
 Features:
 
 Floyd-Warshall Algorithm: Proven algorithm to return the shortest distance between a pair of points in the graph.
+
 Parallel Processing: Utilizes OpenMP for parallel processing to improve performance on large datasets. 
+
 Generating Random Data: Separate function created to generate random graphs with varying graph size.
+
 Execution Time Analysis: Records and displays the execution time for various input sizes. 
 
 Working:
